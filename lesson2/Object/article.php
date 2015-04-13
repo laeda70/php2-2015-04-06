@@ -1,0 +1,2 @@
+<?php
+$article = new Article;
